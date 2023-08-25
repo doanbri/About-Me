@@ -1,5 +1,9 @@
 **CV Introduction**
 
+I am currently studying at Westchester Academy for International Studies.
+
+Skills: Python / C / Javascript
+
 ***Experience/Education***
 
 WAIS IB CP student
